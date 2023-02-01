@@ -1,0 +1,9 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment
+"Jan 21, 2023",Saturday,40.00,Gas,Travel,Credit
+"Jan 23, 2023",Monday,3.00,Chap Stick,Housing,Credit
+"Jan 24, 2023",Tuesday,90.00,Shoes,Travel,Credit
+"Jan 25, 2023",Wednesday,9.00,Food ,Food,Debit
+"Jan 26,2023",Thursday,14.00,Food ,Food,Debit
+"Jan 28, 2023",Saturday,21.00,Dinner,Food,Credit
+"Jan 30, 2023",Monday,15.00,Lunch,Food,Credit
+gas,Tuesday,63.00,Gas,Travel,Credit
